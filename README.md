@@ -36,7 +36,7 @@
 ### Applications
 * [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/142511431-84a49118-76af-4b3c-a095-2de155ec4109.gif" width="47.5%" height="425px"/>
+  <img src="https://user-images.githubusercontent.com/42393951/142511431-84a49118-76af-4b3c-a095-2de155ec4109.gif" width="52.5%" height="425px"/>
 </p>
 
 _________________
@@ -44,7 +44,7 @@ _________________
 
 * [Social-Lite](https://social-lite-lfz.herokuapp.com/) - A full stack (PERN) web application for friends who want to share memories and plan out events together.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/142703705-8a2bdc26-a4a5-4ffb-bf3e-ff7f6faebc33.png" width="42.5%" height="600px"/>
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://user-images.githubusercontent.com/42393951/142703708-be804cf7-aaf6-4f56-a22c-a4544dd69cc9.gif" width="42.5%" height="600px"/>
+  <img src="https://user-images.githubusercontent.com/42393951/142703705-8a2bdc26-a4a5-4ffb-bf3e-ff7f6faebc33.png" width="45.5%" height="600px"/>
+&nbsp;
+  <img src="https://user-images.githubusercontent.com/42393951/142703708-be804cf7-aaf6-4f56-a22c-a4544dd69cc9.gif" width="45.5%" height="600px"/>
 </p>
