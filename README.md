@@ -1,12 +1,20 @@
 # Welcome~ I'm Peter Vila!:man_technologist:	 
 
 <a href="https://www.linkedin.com/in/peterdvila/">
-<img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="Linkedin"/> Connect with me on LinkedIn!
+<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
 </a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterVila&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterVila&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :white_check_mark: What am I working on?
+- [ ] :heavy_plus_sign: Finish up MVP features on [Social-Lite](https://github.com/PeterVila/social-lite)
+- [ ] :heavy_plus_sign: Learn React Hooks
+- [ ] :heavy_plus_sign: Build e-commerce website
+- [ ] :heavy_plus_sign: Learn Redux
+
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
