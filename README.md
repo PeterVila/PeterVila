@@ -10,7 +10,7 @@
 - [ ] :heavy_plus_sign: Finish up MVP features on [Social-Lite](https://github.com/PeterVila/social-lite)
 - [ ] :heavy_plus_sign: Learn React Hooks
 - [ ] :heavy_plus_sign: Build e-commerce website
-- [ ] :heavy_plus_sign: Learn Redux
+- [ ] :heavy_plus_sign: Build Portfolio
 
 
 ### Languages
