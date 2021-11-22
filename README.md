@@ -32,7 +32,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Applications
 * [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
