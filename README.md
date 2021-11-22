@@ -4,10 +4,7 @@
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
 </a>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterVila&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterVila&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterVila&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### :white_check_mark: What am I working on?
 - [ ] :heavy_plus_sign: Finish up MVP features on [Social-Lite](https://github.com/PeterVila/social-lite)
@@ -22,6 +19,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterVila&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tools and Technologies
