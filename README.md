@@ -39,7 +39,7 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 ### Applications
 * [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/142511431-84a49118-76af-4b3c-a095-2de155ec4109.gif" width="52.5%" height="425px"/>
+  <img src="https://user-images.githubusercontent.com/42393951/142511431-84a49118-76af-4b3c-a095-2de155ec4109.gif" width="60%" height="425px"/>
 </p>
 
 _________________
