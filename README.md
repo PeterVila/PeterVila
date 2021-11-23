@@ -1,4 +1,8 @@
-# Welcome~ I'm Peter Vila!:man_technologist:	 
+# Welcome~ I'm Peter Vila! 💻  
+
+I'm a Software Developer with a passion for technology, coding, and digital art! :pen:	
+
+I'm skilled in languages such as JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS - but I'm always seeking to develop new skills and expanding my toolbox everyday!
 
 <a href="https://www.linkedin.com/in/peterdvila/">
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
