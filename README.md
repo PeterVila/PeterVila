@@ -47,7 +47,7 @@ _________________
 
 * [Social-Lite](https://social-lite-lfz.herokuapp.com/) - A full stack (PERN) web application for friends who want to share memories and plan out events together.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/142703705-8a2bdc26-a4a5-4ffb-bf3e-ff7f6faebc33.png" width="37.5%" height="600px"/>
+  <img src="https://user-images.githubusercontent.com/42393951/142703705-8a2bdc26-a4a5-4ffb-bf3e-ff7f6faebc33.png" width="40%" height="650px"/>
 &nbsp;
-  <img src="https://user-images.githubusercontent.com/42393951/142703708-be804cf7-aaf6-4f56-a22c-a4544dd69cc9.gif" width="37.5%" height="600px"/>
+  <img src="https://user-images.githubusercontent.com/42393951/142703708-be804cf7-aaf6-4f56-a22c-a4544dd69cc9.gif" width="40%" height="650px"/>
 </p>
