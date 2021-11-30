@@ -1,6 +1,6 @@
 # Welcome~ I'm Peter Vila! 💻  
 
-I'm a Software Developer with a passion for technology, coding, and digital art! :pen:	
+I'm a Software Developer with a passion for technology, coding, and creating digital art! :pen:	
 
 I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and more! - But I'm always seeking to develop new skills and expanding my toolbox everyday!
 
