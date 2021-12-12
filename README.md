@@ -13,7 +13,7 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 ### :white_check_mark: What am I currently working on?
 - [x] :heavy_plus_sign: Finishing up MVP features on [Social-Lite](https://github.com/PeterVila/social-lite)
 - [x] :heavy_plus_sign: Learning React Hooks
-- [x] :heavy_plus_sign: React Code Journal with hooks
+- [x] :heavy_plus_sign: React Code Journal with hooks [Check out the repo](https://github.com/PeterVila/react-code-journal#react-code-journal)
 - [ ] :heavy_plus_sign: E-commerce project
 - [ ] :heavy_plus_sign: Build portfolio website
 
