@@ -10,12 +10,12 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterVila&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### :white_check_mark: What am I currently working on?
+### :white_check_mark: Currently working on for the month of December
 - [x] :heavy_plus_sign: Finishing up MVP features on [Social-Lite](https://github.com/PeterVila/social-lite)
-- [x] :heavy_plus_sign: Learning React Hooks
 - [x] :heavy_plus_sign: React Code Journal with hooks [Check out the repo](https://github.com/PeterVila/react-code-journal#react-code-journal)
 - [x] :heavy_plus_sign: Learning TypeScript and project setup
-- [ ] :heavy_plus_sign: E-commerce project
+- [x] :heavy_plus_sign: Incorporating SASS
+- [x] :heavy_plus_sign: E-commerce project
 - [ ] :heavy_plus_sign: Build portfolio website
 
 
@@ -25,6 +25,7 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterVila&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
