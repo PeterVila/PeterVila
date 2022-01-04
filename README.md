@@ -10,13 +10,11 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterVila&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### :white_check_mark: Currently working on for the month of December
-- [x] :heavy_plus_sign: Finishing up MVP features on [Social-Lite](https://github.com/PeterVila/social-lite)
-- [x] :heavy_plus_sign: React Code Journal with hooks [Check out the repo](https://github.com/PeterVila/react-code-journal#react-code-journal)
-- [x] :heavy_plus_sign: Learning TypeScript and project setup
-- [x] :heavy_plus_sign: Incorporating SASS
-- [x] :heavy_plus_sign: E-commerce project
-- [ ] :heavy_plus_sign: Build portfolio website
+### :white_check_mark: January's To-do list
+- [x] :heavy_plus_sign: Portfolio Website
+- [ ] :heavy_plus_sign: TypeScript Course
+- [ ] :heavy_plus_sign: Testing React Apps - Jest
+- [ ] :heavy_plus_sign: E-commerce project
 
 
 ### Languages
