@@ -12,8 +12,8 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 
 ### :white_check_mark: January's To-do list
 - [x] :heavy_plus_sign: Portfolio Website
-- [ ] :heavy_plus_sign: TypeScript Course
-- [ ] :heavy_plus_sign: Testing React Apps - Jest
+- [x] :heavy_plus_sign: Web scrapping w/ Puppeteer
+- [ ] :heavy_plus_sign: Testing React Apps - Cypress
 - [ ] :heavy_plus_sign: E-commerce project
 
 
