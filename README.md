@@ -10,13 +10,6 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterVila&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### :white_check_mark: January's To-do list
-- [x] :heavy_plus_sign: Portfolio Website
-- [x] :heavy_plus_sign: Web scrapping w/ Puppeteer
-- [ ] :heavy_plus_sign: Testing React Apps - Cypress
-- [ ] :heavy_plus_sign: E-commerce project
-
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,6 +30,8 @@ I'm skilled in JavaScript (ES5 + ES6), React.js, PostgreSQL, Node.js, CSS and mo
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### Applications
 * [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
