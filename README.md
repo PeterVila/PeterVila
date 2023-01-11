@@ -47,7 +47,7 @@ Hello! My name is Peter Vila, and I'm a Software Engineer at with a passion for 
 ### Applications
 * [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/143111026-f15628c1-9c1c-42b8-ba0c-45a8f648dfb4.gif" width="60%" height="525px"/>
+  <img src="https://user-images.githubusercontent.com/42393951/143111026-f15628c1-9c1c-42b8-ba0c-45a8f648dfb4.gif" width="500px" height="525px"/>
 </p>
 
 _________________
